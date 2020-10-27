@@ -1,0 +1,13 @@
+S:\Projets Visual studio\PierreFeuilleCiseaux\Tests\bin\Debug\netcoreapp3.1\Tests.exe
+S:\Projets Visual studio\PierreFeuilleCiseaux\Tests\bin\Debug\netcoreapp3.1\Tests.deps.json
+S:\Projets Visual studio\PierreFeuilleCiseaux\Tests\bin\Debug\netcoreapp3.1\Tests.runtimeconfig.json
+S:\Projets Visual studio\PierreFeuilleCiseaux\Tests\bin\Debug\netcoreapp3.1\Tests.runtimeconfig.dev.json
+S:\Projets Visual studio\PierreFeuilleCiseaux\Tests\bin\Debug\netcoreapp3.1\Tests.dll
+S:\Projets Visual studio\PierreFeuilleCiseaux\Tests\bin\Debug\netcoreapp3.1\Tests.pdb
+S:\Projets Visual studio\PierreFeuilleCiseaux\Tests\obj\Debug\netcoreapp3.1\Tests.csprojAssemblyReference.cache
+S:\Projets Visual studio\PierreFeuilleCiseaux\Tests\obj\Debug\netcoreapp3.1\Tests.AssemblyInfoInputs.cache
+S:\Projets Visual studio\PierreFeuilleCiseaux\Tests\obj\Debug\netcoreapp3.1\Tests.AssemblyInfo.cs
+S:\Projets Visual studio\PierreFeuilleCiseaux\Tests\obj\Debug\netcoreapp3.1\Tests.csproj.CoreCompileInputs.cache
+S:\Projets Visual studio\PierreFeuilleCiseaux\Tests\obj\Debug\netcoreapp3.1\Tests.dll
+S:\Projets Visual studio\PierreFeuilleCiseaux\Tests\obj\Debug\netcoreapp3.1\Tests.pdb
+S:\Projets Visual studio\PierreFeuilleCiseaux\Tests\obj\Debug\netcoreapp3.1\Tests.genruntimeconfig.cache

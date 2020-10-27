@@ -1,0 +1,13 @@
+S:\Projets Visual studio\PierreFeuilleCiseaux\PierreFeuilleCiseauxClient\bin\Debug\netcoreapp3.1\PierreFeuilleCiseauxClient.exe
+S:\Projets Visual studio\PierreFeuilleCiseaux\PierreFeuilleCiseauxClient\bin\Debug\netcoreapp3.1\PierreFeuilleCiseauxClient.deps.json
+S:\Projets Visual studio\PierreFeuilleCiseaux\PierreFeuilleCiseauxClient\bin\Debug\netcoreapp3.1\PierreFeuilleCiseauxClient.runtimeconfig.json
+S:\Projets Visual studio\PierreFeuilleCiseaux\PierreFeuilleCiseauxClient\bin\Debug\netcoreapp3.1\PierreFeuilleCiseauxClient.runtimeconfig.dev.json
+S:\Projets Visual studio\PierreFeuilleCiseaux\PierreFeuilleCiseauxClient\bin\Debug\netcoreapp3.1\PierreFeuilleCiseauxClient.dll
+S:\Projets Visual studio\PierreFeuilleCiseaux\PierreFeuilleCiseauxClient\bin\Debug\netcoreapp3.1\PierreFeuilleCiseauxClient.pdb
+S:\Projets Visual studio\PierreFeuilleCiseaux\PierreFeuilleCiseauxClient\obj\Debug\netcoreapp3.1\PierreFeuilleCiseauxClient.csprojAssemblyReference.cache
+S:\Projets Visual studio\PierreFeuilleCiseaux\PierreFeuilleCiseauxClient\obj\Debug\netcoreapp3.1\PierreFeuilleCiseauxClient.AssemblyInfoInputs.cache
+S:\Projets Visual studio\PierreFeuilleCiseaux\PierreFeuilleCiseauxClient\obj\Debug\netcoreapp3.1\PierreFeuilleCiseauxClient.AssemblyInfo.cs
+S:\Projets Visual studio\PierreFeuilleCiseaux\PierreFeuilleCiseauxClient\obj\Debug\netcoreapp3.1\PierreFeuilleCiseauxClient.csproj.CoreCompileInputs.cache
+S:\Projets Visual studio\PierreFeuilleCiseaux\PierreFeuilleCiseauxClient\obj\Debug\netcoreapp3.1\PierreFeuilleCiseauxClient.dll
+S:\Projets Visual studio\PierreFeuilleCiseaux\PierreFeuilleCiseauxClient\obj\Debug\netcoreapp3.1\PierreFeuilleCiseauxClient.pdb
+S:\Projets Visual studio\PierreFeuilleCiseaux\PierreFeuilleCiseauxClient\obj\Debug\netcoreapp3.1\PierreFeuilleCiseauxClient.genruntimeconfig.cache

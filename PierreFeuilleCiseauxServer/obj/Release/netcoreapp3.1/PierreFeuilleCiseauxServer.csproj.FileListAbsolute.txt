@@ -1,0 +1,12 @@
+S:\Projets Visual studio\PierreFeuilleCiseaux\PierreFeuilleCiseauxServer\bin\Release\netcoreapp3.1\PierreFeuilleCiseauxServer.exe
+S:\Projets Visual studio\PierreFeuilleCiseaux\PierreFeuilleCiseauxServer\bin\Release\netcoreapp3.1\PierreFeuilleCiseauxServer.deps.json
+S:\Projets Visual studio\PierreFeuilleCiseaux\PierreFeuilleCiseauxServer\bin\Release\netcoreapp3.1\PierreFeuilleCiseauxServer.runtimeconfig.json
+S:\Projets Visual studio\PierreFeuilleCiseaux\PierreFeuilleCiseauxServer\bin\Release\netcoreapp3.1\PierreFeuilleCiseauxServer.runtimeconfig.dev.json
+S:\Projets Visual studio\PierreFeuilleCiseaux\PierreFeuilleCiseauxServer\bin\Release\netcoreapp3.1\PierreFeuilleCiseauxServer.dll
+S:\Projets Visual studio\PierreFeuilleCiseaux\PierreFeuilleCiseauxServer\bin\Release\netcoreapp3.1\PierreFeuilleCiseauxServer.pdb
+S:\Projets Visual studio\PierreFeuilleCiseaux\PierreFeuilleCiseauxServer\obj\Release\netcoreapp3.1\PierreFeuilleCiseauxServer.AssemblyInfoInputs.cache
+S:\Projets Visual studio\PierreFeuilleCiseaux\PierreFeuilleCiseauxServer\obj\Release\netcoreapp3.1\PierreFeuilleCiseauxServer.AssemblyInfo.cs
+S:\Projets Visual studio\PierreFeuilleCiseaux\PierreFeuilleCiseauxServer\obj\Release\netcoreapp3.1\PierreFeuilleCiseauxServer.csproj.CoreCompileInputs.cache
+S:\Projets Visual studio\PierreFeuilleCiseaux\PierreFeuilleCiseauxServer\obj\Release\netcoreapp3.1\PierreFeuilleCiseauxServer.dll
+S:\Projets Visual studio\PierreFeuilleCiseaux\PierreFeuilleCiseauxServer\obj\Release\netcoreapp3.1\PierreFeuilleCiseauxServer.pdb
+S:\Projets Visual studio\PierreFeuilleCiseaux\PierreFeuilleCiseauxServer\obj\Release\netcoreapp3.1\PierreFeuilleCiseauxServer.genruntimeconfig.cache

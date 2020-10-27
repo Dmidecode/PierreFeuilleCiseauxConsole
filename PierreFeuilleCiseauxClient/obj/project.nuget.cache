@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZkIisETR6tYMK8Lqe0aA24TcQ3bziuDZqyhMaYPi3ZkMFScjYHLKc9dF2liSEiZUxRGQabTYgNF/lWqQ45CqvQ==",
+  "success": true,
+  "projectFilePath": "S:\\Projets Visual studio\\PierreFeuilleCiseaux\\PierreFeuilleCiseauxClient\\PierreFeuilleCiseauxClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Megumin\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.5\\microsoft.netcore.app.runtime.win-x64.3.1.5.nupkg.sha512",
+    "C:\\Users\\Megumin\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.5\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.5.nupkg.sha512",
+    "C:\\Users\\Megumin\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.5\\microsoft.aspnetcore.app.runtime.win-x64.3.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
